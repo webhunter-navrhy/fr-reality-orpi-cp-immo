@@ -1,0 +1,11 @@
+# Orpi - CP IMMO
+
+> Les biens de l'agence Orpi - CP IMMO.
+
+- E-mail: cpimmo@orpi.com
+- Site web: http://www.orpi.com/cpimmo
+- Adresse: 34, Avenue Charlles De Gaulle, 92350 Le Plessis-Robinson
+
+## Biens (2)
+- Vente appartement 3 pièces 61 m² à Chatenay-malabry (92) — Houssières, 335 000 €: vente-appartement-3-pieces-61-m2-a-chatenay-malabry-92-109218611/
+- Vente appartement 1 pièce 28.9 m² à Le Plessis-Robinson (92) — Jean Jaures, 170 000 €: vente-appartement-1-piece-28-9-m2-a-le-plessis-robinson-92-109333157/
